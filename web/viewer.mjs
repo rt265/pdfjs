@@ -17201,7 +17201,7 @@ initCom(PDFViewerApplication);
 {
   PDFPrintServiceFactory.initGlobals(PDFViewerApplication);
 }
-// {
+{
 //   const HOSTED_VIEWER_ORIGINS = new Set([
 //     "null",
 //     "http://rt265.github.io/pdfjs/",
