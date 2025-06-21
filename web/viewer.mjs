@@ -17206,6 +17206,7 @@ initCom(PDFViewerApplication);
     "null",
     "http://rt265.github.io/pdfjs/",
     "https://rt265.github.io/pdfjs/",
+    "https://pan.watermelonabc.top",
   ]);
   var validateFileURL = function (file) {
     if (!file) {
